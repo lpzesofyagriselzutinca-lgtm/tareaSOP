@@ -1,0 +1,9 @@
+Captura 1 
+En esta imagen se ve como se repartieron el trabajo los 4 hilos. Muestra exactamente cuantos documentos proceso 
+cada uno junto al 
+tamaño total acumulado por trabajador para ver que todos aportaron a la tarea.
+
+Captura 2 
+En esta captura sale el resultado final del programa donde muestra que se procesaron los 24 documentos de 24 en un tiempo de 0.63 segundos. 
+Tambien se valida que pasaron bien 
+las 3 verificaciones de que no faltaron documentos, no hubieron duplicados y todos los hilos terminaron sin trabarse.
